@@ -1,6 +1,6 @@
 ### Hi, I'm Bram
 
-Freelance full-stack developer based in Bordeaux, France. I build web and desktop apps with TypeScript, React, Node.js and Rust.
+Freelance full-stack developer based in the South-west of France. I build web and desktop apps with TypeScript, React, Node.js and Rust.
 
 #### Currently building
 
