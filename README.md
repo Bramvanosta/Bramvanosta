@@ -10,6 +10,12 @@ Freelance full-stack developer based in the South-west of France. I build web an
 brew install --cask bramvanosta/tap/ranch@beta
 ```
 
+**[Retake](https://github.com/Bramvanosta/Retake)**: write a scenario, get a finished product video. Retake drives your real web app with its own cursor, films it, edits it with your brand's look and checks the result, from a YAML file or by your AI agents through its MCP server. macOS. [retake.bramvanosta.com](https://retake.bramvanosta.com/)
+
+```sh
+brew install --cask bramvanosta/tap/retake
+```
+
 #### Elsewhere
 
 [bramvanosta.com](https://bramvanosta.com) · [LinkedIn](https://www.linkedin.com/in/bramvanosta/)
